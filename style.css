@@ -1,0 +1,16 @@
+
+@media screen and (max-width: 492px) {
+    body {
+        background-color: blue;
+    }
+    
+}
+
+
+#welcome-section{
+    height: 100vh;
+}
+
+#navbar{
+    position: fixed;
+}
